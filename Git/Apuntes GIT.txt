@@ -1,0 +1,25 @@
+git init ----------> crea un repositorio
+git status --------> muestra el estado de nustros archivos
+git add -----------> agrega archivos
+git add -A --------> agrega todos los archivos
+git commit --------> guarda los cambios
+git log -----------> permite ver los distintos commits
+git checkout ------> permite viajar a otro commit que no sea en el que estas
+git checkout master --> viaje al ultimo commit
+HEAD ======================== es el commit en el cual nos encontramos
+RAMAS o branch -----------> lineas de tiempo alternas
+git branch ----------> muestra las ramas (la rama en la que estas tiene un color)
+git branch "nombre" ----> creamos una rama con el nombre "nombre"
+git checkout "nombre de rama" ----> cambiamos a la rama selecionada
+git branch -D "nombre de la rama"   ---------------> elimina la rama seleccionada
+FUSION
+es importante que la rama en la cual nos encontramos va a abosorver los cambios
+git merch "nombre de branch" ------> la rama "nombre de branch fue absorvida"
+git checkout -b "un nombre" ------> crea la rama "un nombre" Y estas en esa rama recien creada
+			GITHUB
+git clone "el link del repositorio" -------> se descargar los archivos del repositorio
+git remote  add origin "link https"--------> vincula los repositorios
+git remote remove origin ---------------> quita el repositorio
+git remote -v ------------------> permite ver a que repositorio estamos conectados
+git commit --amend -m "el mensaje correcto" -------> cambia el mensaje del commit en que te encuentras
+git push origin master -f ---------> si el commit repetido fue subido permitira subirlo a github

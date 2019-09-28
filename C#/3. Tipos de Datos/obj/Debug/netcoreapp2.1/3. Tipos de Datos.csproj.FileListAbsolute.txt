@@ -1,0 +1,11 @@
+C:\Users\ricardo\Documents\1-programacion\C#\3. Tipos de Datos\obj\Debug\netcoreapp2.1\3. Tipos de Datos.csprojAssemblyReference.cache
+C:\Users\ricardo\Documents\1-programacion\C#\3. Tipos de Datos\obj\Debug\netcoreapp2.1\3. Tipos de Datos.csproj.CoreCompileInputs.cache
+C:\Users\ricardo\Documents\1-programacion\C#\3. Tipos de Datos\obj\Debug\netcoreapp2.1\3. Tipos de Datos.AssemblyInfoInputs.cache
+C:\Users\ricardo\Documents\1-programacion\C#\3. Tipos de Datos\obj\Debug\netcoreapp2.1\3. Tipos de Datos.AssemblyInfo.cs
+C:\Users\ricardo\Documents\1-programacion\C#\3. Tipos de Datos\bin\Debug\netcoreapp2.1\3. Tipos de Datos.deps.json
+C:\Users\ricardo\Documents\1-programacion\C#\3. Tipos de Datos\bin\Debug\netcoreapp2.1\3. Tipos de Datos.runtimeconfig.json
+C:\Users\ricardo\Documents\1-programacion\C#\3. Tipos de Datos\bin\Debug\netcoreapp2.1\3. Tipos de Datos.runtimeconfig.dev.json
+C:\Users\ricardo\Documents\1-programacion\C#\3. Tipos de Datos\bin\Debug\netcoreapp2.1\3. Tipos de Datos.dll
+C:\Users\ricardo\Documents\1-programacion\C#\3. Tipos de Datos\bin\Debug\netcoreapp2.1\3. Tipos de Datos.pdb
+C:\Users\ricardo\Documents\1-programacion\C#\3. Tipos de Datos\obj\Debug\netcoreapp2.1\3. Tipos de Datos.dll
+C:\Users\ricardo\Documents\1-programacion\C#\3. Tipos de Datos\obj\Debug\netcoreapp2.1\3. Tipos de Datos.pdb

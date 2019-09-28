@@ -1,0 +1,11 @@
+C:\Users\ricardo\Documents\1-programacion\C#\4. Conversiones de tipo\obj\Debug\netcoreapp2.1\4. Conversiones de tipo.csprojAssemblyReference.cache
+C:\Users\ricardo\Documents\1-programacion\C#\4. Conversiones de tipo\obj\Debug\netcoreapp2.1\4. Conversiones de tipo.csproj.CoreCompileInputs.cache
+C:\Users\ricardo\Documents\1-programacion\C#\4. Conversiones de tipo\obj\Debug\netcoreapp2.1\4. Conversiones de tipo.AssemblyInfoInputs.cache
+C:\Users\ricardo\Documents\1-programacion\C#\4. Conversiones de tipo\obj\Debug\netcoreapp2.1\4. Conversiones de tipo.AssemblyInfo.cs
+C:\Users\ricardo\Documents\1-programacion\C#\4. Conversiones de tipo\bin\Debug\netcoreapp2.1\4. Conversiones de tipo.deps.json
+C:\Users\ricardo\Documents\1-programacion\C#\4. Conversiones de tipo\bin\Debug\netcoreapp2.1\4. Conversiones de tipo.runtimeconfig.json
+C:\Users\ricardo\Documents\1-programacion\C#\4. Conversiones de tipo\bin\Debug\netcoreapp2.1\4. Conversiones de tipo.runtimeconfig.dev.json
+C:\Users\ricardo\Documents\1-programacion\C#\4. Conversiones de tipo\bin\Debug\netcoreapp2.1\4. Conversiones de tipo.dll
+C:\Users\ricardo\Documents\1-programacion\C#\4. Conversiones de tipo\bin\Debug\netcoreapp2.1\4. Conversiones de tipo.pdb
+C:\Users\ricardo\Documents\1-programacion\C#\4. Conversiones de tipo\obj\Debug\netcoreapp2.1\4. Conversiones de tipo.dll
+C:\Users\ricardo\Documents\1-programacion\C#\4. Conversiones de tipo\obj\Debug\netcoreapp2.1\4. Conversiones de tipo.pdb

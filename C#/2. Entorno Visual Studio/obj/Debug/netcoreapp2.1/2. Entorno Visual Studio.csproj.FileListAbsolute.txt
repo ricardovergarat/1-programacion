@@ -1,0 +1,11 @@
+C:\Users\ricardo\Documents\1-programacion\C#\2. Entorno Visual Studio\bin\Debug\netcoreapp2.1\2. Entorno Visual Studio.deps.json
+C:\Users\ricardo\Documents\1-programacion\C#\2. Entorno Visual Studio\bin\Debug\netcoreapp2.1\2. Entorno Visual Studio.runtimeconfig.json
+C:\Users\ricardo\Documents\1-programacion\C#\2. Entorno Visual Studio\bin\Debug\netcoreapp2.1\2. Entorno Visual Studio.runtimeconfig.dev.json
+C:\Users\ricardo\Documents\1-programacion\C#\2. Entorno Visual Studio\bin\Debug\netcoreapp2.1\2. Entorno Visual Studio.dll
+C:\Users\ricardo\Documents\1-programacion\C#\2. Entorno Visual Studio\bin\Debug\netcoreapp2.1\2. Entorno Visual Studio.pdb
+C:\Users\ricardo\Documents\1-programacion\C#\2. Entorno Visual Studio\obj\Debug\netcoreapp2.1\2. Entorno Visual Studio.csprojAssemblyReference.cache
+C:\Users\ricardo\Documents\1-programacion\C#\2. Entorno Visual Studio\obj\Debug\netcoreapp2.1\2. Entorno Visual Studio.csproj.CoreCompileInputs.cache
+C:\Users\ricardo\Documents\1-programacion\C#\2. Entorno Visual Studio\obj\Debug\netcoreapp2.1\2. Entorno Visual Studio.AssemblyInfoInputs.cache
+C:\Users\ricardo\Documents\1-programacion\C#\2. Entorno Visual Studio\obj\Debug\netcoreapp2.1\2. Entorno Visual Studio.AssemblyInfo.cs
+C:\Users\ricardo\Documents\1-programacion\C#\2. Entorno Visual Studio\obj\Debug\netcoreapp2.1\2. Entorno Visual Studio.dll
+C:\Users\ricardo\Documents\1-programacion\C#\2. Entorno Visual Studio\obj\Debug\netcoreapp2.1\2. Entorno Visual Studio.pdb

@@ -1,0 +1,10 @@
+C:\Users\Intel\Documents\1-programacion\C#\6. Objetos y Clases\bin\Debug\netcoreapp2.1\6. Objetos y Clases.deps.json
+C:\Users\Intel\Documents\1-programacion\C#\6. Objetos y Clases\bin\Debug\netcoreapp2.1\6. Objetos y Clases.runtimeconfig.json
+C:\Users\Intel\Documents\1-programacion\C#\6. Objetos y Clases\bin\Debug\netcoreapp2.1\6. Objetos y Clases.runtimeconfig.dev.json
+C:\Users\Intel\Documents\1-programacion\C#\6. Objetos y Clases\bin\Debug\netcoreapp2.1\6. Objetos y Clases.dll
+C:\Users\Intel\Documents\1-programacion\C#\6. Objetos y Clases\bin\Debug\netcoreapp2.1\6. Objetos y Clases.pdb
+C:\Users\Intel\Documents\1-programacion\C#\6. Objetos y Clases\obj\Debug\netcoreapp2.1\6. Objetos y Clases.csprojAssemblyReference.cache
+C:\Users\Intel\Documents\1-programacion\C#\6. Objetos y Clases\obj\Debug\netcoreapp2.1\6. Objetos y Clases.AssemblyInfoInputs.cache
+C:\Users\Intel\Documents\1-programacion\C#\6. Objetos y Clases\obj\Debug\netcoreapp2.1\6. Objetos y Clases.AssemblyInfo.cs
+C:\Users\Intel\Documents\1-programacion\C#\6. Objetos y Clases\obj\Debug\netcoreapp2.1\6. Objetos y Clases.dll
+C:\Users\Intel\Documents\1-programacion\C#\6. Objetos y Clases\obj\Debug\netcoreapp2.1\6. Objetos y Clases.pdb

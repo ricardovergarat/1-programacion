@@ -1,0 +1,11 @@
+C:\Users\Intel\Documents\1-programacion\C#\7. Modularidad y Encapsulamiento\bin\Debug\netcoreapp3.0\7. Modularidad y Encapsulamiento.exe
+C:\Users\Intel\Documents\1-programacion\C#\7. Modularidad y Encapsulamiento\bin\Debug\netcoreapp3.0\7. Modularidad y Encapsulamiento.deps.json
+C:\Users\Intel\Documents\1-programacion\C#\7. Modularidad y Encapsulamiento\bin\Debug\netcoreapp3.0\7. Modularidad y Encapsulamiento.runtimeconfig.json
+C:\Users\Intel\Documents\1-programacion\C#\7. Modularidad y Encapsulamiento\bin\Debug\netcoreapp3.0\7. Modularidad y Encapsulamiento.runtimeconfig.dev.json
+C:\Users\Intel\Documents\1-programacion\C#\7. Modularidad y Encapsulamiento\bin\Debug\netcoreapp3.0\7. Modularidad y Encapsulamiento.dll
+C:\Users\Intel\Documents\1-programacion\C#\7. Modularidad y Encapsulamiento\bin\Debug\netcoreapp3.0\7. Modularidad y Encapsulamiento.pdb
+C:\Users\Intel\Documents\1-programacion\C#\7. Modularidad y Encapsulamiento\obj\Debug\netcoreapp3.0\7. Modularidad y Encapsulamiento.csprojAssemblyReference.cache
+C:\Users\Intel\Documents\1-programacion\C#\7. Modularidad y Encapsulamiento\obj\Debug\netcoreapp3.0\7. Modularidad y Encapsulamiento.AssemblyInfoInputs.cache
+C:\Users\Intel\Documents\1-programacion\C#\7. Modularidad y Encapsulamiento\obj\Debug\netcoreapp3.0\7. Modularidad y Encapsulamiento.AssemblyInfo.cs
+C:\Users\Intel\Documents\1-programacion\C#\7. Modularidad y Encapsulamiento\obj\Debug\netcoreapp3.0\7. Modularidad y Encapsulamiento.dll
+C:\Users\Intel\Documents\1-programacion\C#\7. Modularidad y Encapsulamiento\obj\Debug\netcoreapp3.0\7. Modularidad y Encapsulamiento.pdb

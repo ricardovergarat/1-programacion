@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\6. Objetos y Clases\\6. Objetos y Clases.csproj": {}
+    "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\7. Modularidad y Encapsulamiento\\7. Modularidad y Encapsulamiento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\6. Objetos y Clases\\6. Objetos y Clases.csproj": {
+    "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\7. Modularidad y Encapsulamiento\\7. Modularidad y Encapsulamiento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\6. Objetos y Clases\\6. Objetos y Clases.csproj",
-        "projectName": "6. Objetos y Clases",
-        "projectPath": "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\6. Objetos y Clases\\6. Objetos y Clases.csproj",
+        "projectUniqueName": "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\7. Modularidad y Encapsulamiento\\7. Modularidad y Encapsulamiento.csproj",
+        "projectName": "7. Modularidad y Encapsulamiento",
+        "projectPath": "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\7. Modularidad y Encapsulamiento\\7. Modularidad y Encapsulamiento.csproj",
         "packagesPath": "C:\\Users\\Intel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\6. Objetos y Clases\\obj\\",
+        "outputPath": "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\7. Modularidad y Encapsulamiento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -22,14 +22,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp3.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp3.0": {
             "projectReferences": {}
           }
         },
@@ -40,15 +40,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.0": {
           "imports": [
             "net461",
             "net462",
@@ -59,6 +51,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }

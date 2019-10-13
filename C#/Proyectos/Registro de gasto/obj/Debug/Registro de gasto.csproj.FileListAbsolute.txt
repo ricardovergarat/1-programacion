@@ -1,0 +1,9 @@
+C:\Users\Intel\Documents\1-programacion\C#\Proyectos\Registro de gasto\bin\Debug\Registro de gasto.exe.config
+C:\Users\Intel\Documents\1-programacion\C#\Proyectos\Registro de gasto\bin\Debug\Registro de gasto.exe
+C:\Users\Intel\Documents\1-programacion\C#\Proyectos\Registro de gasto\bin\Debug\Registro de gasto.pdb
+C:\Users\Intel\Documents\1-programacion\C#\Proyectos\Registro de gasto\obj\Debug\Registro de gasto.csprojAssemblyReference.cache
+C:\Users\Intel\Documents\1-programacion\C#\Proyectos\Registro de gasto\obj\Debug\Registro_de_gasto.Form1.resources
+C:\Users\Intel\Documents\1-programacion\C#\Proyectos\Registro de gasto\obj\Debug\Registro_de_gasto.Properties.Resources.resources
+C:\Users\Intel\Documents\1-programacion\C#\Proyectos\Registro de gasto\obj\Debug\Registro de gasto.csproj.GenerateResource.cache
+C:\Users\Intel\Documents\1-programacion\C#\Proyectos\Registro de gasto\obj\Debug\Registro de gasto.exe
+C:\Users\Intel\Documents\1-programacion\C#\Proyectos\Registro de gasto\obj\Debug\Registro de gasto.pdb

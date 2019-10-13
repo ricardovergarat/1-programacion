@@ -1,0 +1,9 @@
+C:\Users\Intel\Desktop\prueba numero 1\bin\Debug\prueba numero 1.exe.config
+C:\Users\Intel\Desktop\prueba numero 1\bin\Debug\prueba numero 1.exe
+C:\Users\Intel\Desktop\prueba numero 1\bin\Debug\prueba numero 1.pdb
+C:\Users\Intel\Desktop\prueba numero 1\obj\Debug\prueba numero 1.csprojAssemblyReference.cache
+C:\Users\Intel\Desktop\prueba numero 1\obj\Debug\prueba_numero_1.Form1.resources
+C:\Users\Intel\Desktop\prueba numero 1\obj\Debug\prueba_numero_1.Properties.Resources.resources
+C:\Users\Intel\Desktop\prueba numero 1\obj\Debug\prueba numero 1.csproj.GenerateResource.cache
+C:\Users\Intel\Desktop\prueba numero 1\obj\Debug\prueba numero 1.exe
+C:\Users\Intel\Desktop\prueba numero 1\obj\Debug\prueba numero 1.pdb

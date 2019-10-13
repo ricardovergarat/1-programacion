@@ -1,0 +1,6 @@
+C:\Users\Intel\Desktop\archivos\bin\Debug\archivos.exe.config
+C:\Users\Intel\Desktop\archivos\bin\Debug\archivos.exe
+C:\Users\Intel\Desktop\archivos\bin\Debug\archivos.pdb
+C:\Users\Intel\Desktop\archivos\obj\Debug\archivos.csprojAssemblyReference.cache
+C:\Users\Intel\Desktop\archivos\obj\Debug\archivos.exe
+C:\Users\Intel\Desktop\archivos\obj\Debug\archivos.pdb

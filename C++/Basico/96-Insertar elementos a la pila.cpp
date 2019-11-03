@@ -17,19 +17,23 @@ using namespace std;
 struct nodo{
 	int numero;
 	nodo *sgt;
-};
+}; 
 
 void agregar_pila(nodo *&pila, int n){
 	// 4- crearemos un nuevo nodo llamado "nuevo" de tipo puntero y tendra un espacio reservador por el new de tipo "nodo", otra forma seria como de tipo int,float,char, etc
 	nodo *nuevo = new nodo();
 	// 5- ahora asignaremos el valor de el "atributo" numero de tipo "nodo"---- (recordar que en funciones se debe usar -> en vez de . para las estructuras)
 	nuevo -> numero = n;
-	cout << "ahora  vale: " << nuevo -> numero << endl ;
+	cout << "n vale: " << nuevo -> numero << endl;
 	// 6- igual que el paso anterior asignaremos el puntero
 	nuevo -> sgt = pila;
+	cout << "esto es sgt: " << nuevo -> sgt << endl;
 	// 7- aqui actulizamos nuestra pila, es decir de estar vacia agregamos el elemento "n" , esto ocure efectivamente por que pasamos la variable pila por referencia-- es decir =====*&pila===0 por esa parte del codigo
 	pila = nuevo; 
-	cout << "se actualizo la pila" << endl;
+	cout << "la pila es: " << pila << endl;
+	// la pila ahora que esta actualizada tiene otra direcion de memoria a la que apunta 
+	// cabe aclarar que siempre el ultimo es la cabeza de la pila 
+	//cout << "se actualizo la pila" << endl;
 
 }
 

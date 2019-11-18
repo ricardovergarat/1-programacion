@@ -1,0 +1,11 @@
+C:\Users\Intel\Desktop\izi conosla\obj\Debug\netcoreapp3.0\izi conosla.csprojAssemblyReference.cache
+C:\Users\Intel\Desktop\izi conosla\obj\Debug\netcoreapp3.0\izi conosla.AssemblyInfoInputs.cache
+C:\Users\Intel\Desktop\izi conosla\obj\Debug\netcoreapp3.0\izi conosla.AssemblyInfo.cs
+C:\Users\Intel\Desktop\izi conosla\bin\Debug\netcoreapp3.0\izi conosla.exe
+C:\Users\Intel\Desktop\izi conosla\bin\Debug\netcoreapp3.0\izi conosla.deps.json
+C:\Users\Intel\Desktop\izi conosla\bin\Debug\netcoreapp3.0\izi conosla.runtimeconfig.json
+C:\Users\Intel\Desktop\izi conosla\bin\Debug\netcoreapp3.0\izi conosla.runtimeconfig.dev.json
+C:\Users\Intel\Desktop\izi conosla\bin\Debug\netcoreapp3.0\izi conosla.dll
+C:\Users\Intel\Desktop\izi conosla\bin\Debug\netcoreapp3.0\izi conosla.pdb
+C:\Users\Intel\Desktop\izi conosla\obj\Debug\netcoreapp3.0\izi conosla.dll
+C:\Users\Intel\Desktop\izi conosla\obj\Debug\netcoreapp3.0\izi conosla.pdb

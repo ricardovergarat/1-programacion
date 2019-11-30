@@ -1,0 +1,6 @@
+C:\Users\Intel\Documents\1-programacion\C#\Basico\1-Aplicación de consola (Hola mundo)\bin\Debug\1-Aplicación de consola (Hola mundo).exe.config
+C:\Users\Intel\Documents\1-programacion\C#\Basico\1-Aplicación de consola (Hola mundo)\bin\Debug\1-Aplicación de consola (Hola mundo).exe
+C:\Users\Intel\Documents\1-programacion\C#\Basico\1-Aplicación de consola (Hola mundo)\bin\Debug\1-Aplicación de consola (Hola mundo).pdb
+C:\Users\Intel\Documents\1-programacion\C#\Basico\1-Aplicación de consola (Hola mundo)\obj\Debug\1-Aplicación de consola (Hola mundo).csprojAssemblyReference.cache
+C:\Users\Intel\Documents\1-programacion\C#\Basico\1-Aplicación de consola (Hola mundo)\obj\Debug\1-Aplicación de consola (Hola mundo).exe
+C:\Users\Intel\Documents\1-programacion\C#\Basico\1-Aplicación de consola (Hola mundo)\obj\Debug\1-Aplicación de consola (Hola mundo).pdb

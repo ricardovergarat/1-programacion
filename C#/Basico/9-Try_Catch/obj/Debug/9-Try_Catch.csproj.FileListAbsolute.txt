@@ -1,0 +1,6 @@
+C:\Users\Intel\Documents\1-programacion\C#\Basico\9-Try_Catch\bin\Debug\9-Try_Catch.exe.config
+C:\Users\Intel\Documents\1-programacion\C#\Basico\9-Try_Catch\bin\Debug\9-Try_Catch.exe
+C:\Users\Intel\Documents\1-programacion\C#\Basico\9-Try_Catch\bin\Debug\9-Try_Catch.pdb
+C:\Users\Intel\Documents\1-programacion\C#\Basico\9-Try_Catch\obj\Debug\9-Try_Catch.csprojAssemblyReference.cache
+C:\Users\Intel\Documents\1-programacion\C#\Basico\9-Try_Catch\obj\Debug\9-Try_Catch.exe
+C:\Users\Intel\Documents\1-programacion\C#\Basico\9-Try_Catch\obj\Debug\9-Try_Catch.pdb

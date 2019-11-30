@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\4. Conversiones de tipo\\4. Conversiones de tipo.csproj": {}
+    "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\Inicio 1\\4. Conversiones de tipo\\4. Conversiones de tipo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\4. Conversiones de tipo\\4. Conversiones de tipo.csproj": {
+    "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\Inicio 1\\4. Conversiones de tipo\\4. Conversiones de tipo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\4. Conversiones de tipo\\4. Conversiones de tipo.csproj",
+        "projectUniqueName": "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\Inicio 1\\4. Conversiones de tipo\\4. Conversiones de tipo.csproj",
         "projectName": "4. Conversiones de tipo",
-        "projectPath": "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\4. Conversiones de tipo\\4. Conversiones de tipo.csproj",
+        "projectPath": "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\Inicio 1\\4. Conversiones de tipo\\4. Conversiones de tipo.csproj",
         "packagesPath": "C:\\Users\\Intel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\4. Conversiones de tipo\\obj\\",
+        "outputPath": "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\Inicio 1\\4. Conversiones de tipo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,0 +1,9 @@
+C:\Users\Intel\Documents\1-programacion\C#\Basico\22- Introducción a Windows Form\bin\Debug\22- Introducción a Windows Form.exe.config
+C:\Users\Intel\Documents\1-programacion\C#\Basico\22- Introducción a Windows Form\bin\Debug\22- Introducción a Windows Form.exe
+C:\Users\Intel\Documents\1-programacion\C#\Basico\22- Introducción a Windows Form\bin\Debug\22- Introducción a Windows Form.pdb
+C:\Users\Intel\Documents\1-programacion\C#\Basico\22- Introducción a Windows Form\obj\Debug\22- Introducción a Windows Form.csprojAssemblyReference.cache
+C:\Users\Intel\Documents\1-programacion\C#\Basico\22- Introducción a Windows Form\obj\Debug\_22__Introducción_a_Windows_Form.Form1.resources
+C:\Users\Intel\Documents\1-programacion\C#\Basico\22- Introducción a Windows Form\obj\Debug\_22__Introducción_a_Windows_Form.Properties.Resources.resources
+C:\Users\Intel\Documents\1-programacion\C#\Basico\22- Introducción a Windows Form\obj\Debug\22- Introducción a Windows Form.csproj.GenerateResource.cache
+C:\Users\Intel\Documents\1-programacion\C#\Basico\22- Introducción a Windows Form\obj\Debug\22- Introducción a Windows Form.exe
+C:\Users\Intel\Documents\1-programacion\C#\Basico\22- Introducción a Windows Form\obj\Debug\22- Introducción a Windows Form.pdb

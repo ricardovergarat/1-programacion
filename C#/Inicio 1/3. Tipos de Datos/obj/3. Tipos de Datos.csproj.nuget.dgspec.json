@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\3. Tipos de Datos\\3. Tipos de Datos.csproj": {}
+    "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\Inicio 1\\3. Tipos de Datos\\3. Tipos de Datos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\3. Tipos de Datos\\3. Tipos de Datos.csproj": {
+    "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\Inicio 1\\3. Tipos de Datos\\3. Tipos de Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\3. Tipos de Datos\\3. Tipos de Datos.csproj",
+        "projectUniqueName": "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\Inicio 1\\3. Tipos de Datos\\3. Tipos de Datos.csproj",
         "projectName": "3. Tipos de Datos",
-        "projectPath": "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\3. Tipos de Datos\\3. Tipos de Datos.csproj",
+        "projectPath": "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\Inicio 1\\3. Tipos de Datos\\3. Tipos de Datos.csproj",
         "packagesPath": "C:\\Users\\Intel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\3. Tipos de Datos\\obj\\",
+        "outputPath": "C:\\Users\\Intel\\Documents\\1-programacion\\C#\\Inicio 1\\3. Tipos de Datos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

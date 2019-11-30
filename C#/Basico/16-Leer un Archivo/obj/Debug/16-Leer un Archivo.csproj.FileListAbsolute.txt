@@ -1,0 +1,6 @@
+C:\Users\Intel\Documents\1-programacion\C#\Basico\16-Leer un Archivo\bin\Debug\16-Leer un Archivo.exe.config
+C:\Users\Intel\Documents\1-programacion\C#\Basico\16-Leer un Archivo\bin\Debug\16-Leer un Archivo.exe
+C:\Users\Intel\Documents\1-programacion\C#\Basico\16-Leer un Archivo\bin\Debug\16-Leer un Archivo.pdb
+C:\Users\Intel\Documents\1-programacion\C#\Basico\16-Leer un Archivo\obj\Debug\16-Leer un Archivo.csprojAssemblyReference.cache
+C:\Users\Intel\Documents\1-programacion\C#\Basico\16-Leer un Archivo\obj\Debug\16-Leer un Archivo.exe
+C:\Users\Intel\Documents\1-programacion\C#\Basico\16-Leer un Archivo\obj\Debug\16-Leer un Archivo.pdb

@@ -1,0 +1,9 @@
+C:\Users\Intel\Documents\1-programacion\C#\Basico\24-Diseñando una ventana de Login\bin\Debug\24-Diseñando una ventana de Login.exe.config
+C:\Users\Intel\Documents\1-programacion\C#\Basico\24-Diseñando una ventana de Login\bin\Debug\24-Diseñando una ventana de Login.exe
+C:\Users\Intel\Documents\1-programacion\C#\Basico\24-Diseñando una ventana de Login\bin\Debug\24-Diseñando una ventana de Login.pdb
+C:\Users\Intel\Documents\1-programacion\C#\Basico\24-Diseñando una ventana de Login\obj\Debug\24-Diseñando una ventana de Login.csprojAssemblyReference.cache
+C:\Users\Intel\Documents\1-programacion\C#\Basico\24-Diseñando una ventana de Login\obj\Debug\_24_Diseñando_una_ventana_de_Login.ventana.resources
+C:\Users\Intel\Documents\1-programacion\C#\Basico\24-Diseñando una ventana de Login\obj\Debug\_24_Diseñando_una_ventana_de_Login.Properties.Resources.resources
+C:\Users\Intel\Documents\1-programacion\C#\Basico\24-Diseñando una ventana de Login\obj\Debug\24-Diseñando una ventana de Login.csproj.GenerateResource.cache
+C:\Users\Intel\Documents\1-programacion\C#\Basico\24-Diseñando una ventana de Login\obj\Debug\24-Diseñando una ventana de Login.exe
+C:\Users\Intel\Documents\1-programacion\C#\Basico\24-Diseñando una ventana de Login\obj\Debug\24-Diseñando una ventana de Login.pdb

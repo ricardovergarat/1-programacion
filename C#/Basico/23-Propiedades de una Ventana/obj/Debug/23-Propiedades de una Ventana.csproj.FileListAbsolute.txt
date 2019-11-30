@@ -1,0 +1,9 @@
+C:\Users\Intel\Documents\1-programacion\C#\Basico\23-Propiedades de una Ventana\obj\Debug\23-Propiedades de una Ventana.csprojAssemblyReference.cache
+C:\Users\Intel\Documents\1-programacion\C#\Basico\23-Propiedades de una Ventana\obj\Debug\_23_Propiedades_de_una_Ventana.ventana.resources
+C:\Users\Intel\Documents\1-programacion\C#\Basico\23-Propiedades de una Ventana\obj\Debug\_23_Propiedades_de_una_Ventana.Properties.Resources.resources
+C:\Users\Intel\Documents\1-programacion\C#\Basico\23-Propiedades de una Ventana\obj\Debug\23-Propiedades de una Ventana.csproj.GenerateResource.cache
+C:\Users\Intel\Documents\1-programacion\C#\Basico\23-Propiedades de una Ventana\bin\Debug\23-Propiedades de una Ventana.exe.config
+C:\Users\Intel\Documents\1-programacion\C#\Basico\23-Propiedades de una Ventana\bin\Debug\23-Propiedades de una Ventana.exe
+C:\Users\Intel\Documents\1-programacion\C#\Basico\23-Propiedades de una Ventana\bin\Debug\23-Propiedades de una Ventana.pdb
+C:\Users\Intel\Documents\1-programacion\C#\Basico\23-Propiedades de una Ventana\obj\Debug\23-Propiedades de una Ventana.exe
+C:\Users\Intel\Documents\1-programacion\C#\Basico\23-Propiedades de una Ventana\obj\Debug\23-Propiedades de una Ventana.pdb

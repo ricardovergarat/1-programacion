@@ -1,0 +1,6 @@
+C:\Users\Intel\Documents\1-programacion\C#\Basico\15-Crear un Archivo\bin\Debug\15-Crear un Archivo.exe.config
+C:\Users\Intel\Documents\1-programacion\C#\Basico\15-Crear un Archivo\bin\Debug\15-Crear un Archivo.exe
+C:\Users\Intel\Documents\1-programacion\C#\Basico\15-Crear un Archivo\bin\Debug\15-Crear un Archivo.pdb
+C:\Users\Intel\Documents\1-programacion\C#\Basico\15-Crear un Archivo\obj\Debug\15-Crear un Archivo.csprojAssemblyReference.cache
+C:\Users\Intel\Documents\1-programacion\C#\Basico\15-Crear un Archivo\obj\Debug\15-Crear un Archivo.exe
+C:\Users\Intel\Documents\1-programacion\C#\Basico\15-Crear un Archivo\obj\Debug\15-Crear un Archivo.pdb

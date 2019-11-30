@@ -1,0 +1,10 @@
+C:\Users\Intel\Documents\1-programacion\C#\Basico\25-Enlazar dos ventanas. CheckBox y RadioButton\bin\Debug\_25_Enlazar_dos_ventanas.CheckBox_y_RadioButton.exe.config
+C:\Users\Intel\Documents\1-programacion\C#\Basico\25-Enlazar dos ventanas. CheckBox y RadioButton\bin\Debug\_25_Enlazar_dos_ventanas.CheckBox_y_RadioButton.exe
+C:\Users\Intel\Documents\1-programacion\C#\Basico\25-Enlazar dos ventanas. CheckBox y RadioButton\bin\Debug\_25_Enlazar_dos_ventanas.CheckBox_y_RadioButton.pdb
+C:\Users\Intel\Documents\1-programacion\C#\Basico\25-Enlazar dos ventanas. CheckBox y RadioButton\obj\Debug\25-Enlazar dos ventanas. CheckBox y RadioButton.csprojAssemblyReference.cache
+C:\Users\Intel\Documents\1-programacion\C#\Basico\25-Enlazar dos ventanas. CheckBox y RadioButton\obj\Debug\_25_Enlazar_dos_ventanas.CheckBox_y_RadioButton.ventana.resources
+C:\Users\Intel\Documents\1-programacion\C#\Basico\25-Enlazar dos ventanas. CheckBox y RadioButton\obj\Debug\_25_Enlazar_dos_ventanas.CheckBox_y_RadioButton.Properties.Resources.resources
+C:\Users\Intel\Documents\1-programacion\C#\Basico\25-Enlazar dos ventanas. CheckBox y RadioButton\obj\Debug\_25_Enlazar_dos_ventanas.CheckBox_y_RadioButton.ventana2.resources
+C:\Users\Intel\Documents\1-programacion\C#\Basico\25-Enlazar dos ventanas. CheckBox y RadioButton\obj\Debug\25-Enlazar dos ventanas. CheckBox y RadioButton.csproj.GenerateResource.cache
+C:\Users\Intel\Documents\1-programacion\C#\Basico\25-Enlazar dos ventanas. CheckBox y RadioButton\obj\Debug\_25_Enlazar_dos_ventanas.CheckBox_y_RadioButton.exe
+C:\Users\Intel\Documents\1-programacion\C#\Basico\25-Enlazar dos ventanas. CheckBox y RadioButton\obj\Debug\_25_Enlazar_dos_ventanas.CheckBox_y_RadioButton.pdb

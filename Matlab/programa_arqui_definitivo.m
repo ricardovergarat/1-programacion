@@ -17,7 +17,7 @@ while x < cantidad
     %-----------------------------
     % candidatos
     
-    su_matrix_simetrica = eye(orden) * 2; % por si no recuerdan la simetrica es cuando SOLO la diagional es 1
+    su_matrix_simetrica = eye(orden) ; % por si no recuerdan la simetrica es cuando SOLO la diagional es 1
     A0= matrix_A0 - su_matrix_simetrica;
     A1= matrix_A1 - su_matrix_simetrica;
     A2= matrix_A2 - su_matrix_simetrica;
@@ -33,14 +33,13 @@ while x < cantidad
     end
     
     if ReA_sys > 0
-        disp("No es candidato");
-        mega_maximo = max(max(ReA_sys));
+        %%%disp("No es candidato");
         intentos  = intentos + 1;
     else
         % idea de las lineas xx hasta xx fueron pedidas de los siguietes alumnos
         % diegos rojas 
         % isaic morales
-        disp("Es candidato");
+        %%%disp("Es candidato");
         
         algo = 1;
         
@@ -79,15 +78,15 @@ while x < cantidad
         
             W=double(P11);
         
-            disp("esto es P: " + p);
+            %%%disp("esto es P: " + p);
             %|||||||||||||||||||||||||||||
         
             %
             if p > 0
-                disp("Es estable");
-                disp("Esta es la matrix: " + W);
-                disp("el sistema se demoro: " + cpusec);
-                disp("Estamos en el intento: " + intentos);
+                %%%disp("Es estable");
+                %%%disp("Esta es la matrix: " + W);
+                %%%disp("el sistema se demoro: " + cpusec);
+                %%%disp("Estamos en el intento: " + intentos);
                 y = 0;
                 archivo = fopen(nombre_archivo);
                 texto_archivo = "";
@@ -110,15 +109,17 @@ while x < cantidad
                 fprintf(archivo,'%s',nueva_linea);
                 fclose(archivo);
                 intentos = intentos + 1;
-                
+                if mod(x,5) == 0
+                    disp(x + " % completo");
+                end
                 x = x + 1;
             else
-                disp("No es estable");
+                %%%disp("No es estable");
                 intentos = intentos + 1;
             end
           
         else
-            disp("proceso isaic determino que no es candidato");
+            %%%disp("proceso isaic determino que no es candidato");
         end
         
     end

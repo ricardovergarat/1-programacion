@@ -1,7 +1,8 @@
 clc           %---------> esto limpia los mostrado por consola anteriormente
+warning('off','YALMIP:strict'); 
 orden = 2;
-intentos = 604; %---------> poner el ultimo intento del archivo, si es el primero poner 1
-cantidad = 40;  %---------> cuantas matrices quieres agregar al archivo, este programa esta hecho de tal forma que impleca que usted tiene 100 - cantidad  de matricez en el archivo 
+intentos = 1; %---------> poner el ultimo intento del archivo, si es el primero poner 1
+cantidad = 100;  %---------> cuantas matrices quieres agregar al archivo, este programa esta hecho de tal forma que impleca que usted tiene 100 - cantidad  de matricez en el archivo 
 Theta1m = 0.25;
 Theta1M = 0.4;
 Theta2m = 1;
@@ -33,9 +34,12 @@ while x < cantidad
     
     if ReA_sys > 0
         disp("No es candidato");
+        mega_maximo = max(max(ReA_sys));
         intentos  = intentos + 1;
     else
-        % operacion isaic
+        % idea de las lineas xx hasta xx fueron pedidas de los siguietes alumnos
+        % diegos rojas 
+        % isaic morales
         disp("Es candidato");
         
         algo = 1;
@@ -51,7 +55,7 @@ while x < cantidad
             Arolm= rolmipvar(An,'A',[Theta1m Theta1M ; % creacion de caja con sus valores en los vertices
                                     Theta2m Theta2M ]);
                       
-            P11 = rolmipvar(2,2,'P11','symmetric',[2 2],[0 0]); % sin punto
+            P11 = rolmipvar(orden,orden,'P11','symmetric',[2 2],[0 0]); % sin punto
 
             LMIx = Arolm'*P11+P11*Arolm; % sin punto
         
@@ -87,21 +91,26 @@ while x < cantidad
                 y = 0;
                 archivo = fopen(nombre_archivo);
                 texto_archivo = "";
-                while y < (100 - cantidad)
+                while y < ( (100 - cantidad) + x ) %------------------------> (100 - cantidad) es la cantidad de matrices que deberia tener en el archivo |||| + x es la cantidad de matrices agregadas en este proceso 
                     linea = fgetl(archivo);
                     texto_archivo = texto_archivo  + linea + char(13);
                     y = y + 1;
                 end
+                
                 fclose(archivo);
-                disp("texto completo: " + texto_archivo);
+                %disp("recuperamos " + ( (100 - cantidad) + x ) + " lineas" );
+                %disp("texto completo: " + texto_archivo);
                 string_matrix = mat2str(W);
                 string_intento = num2str(intentos);
+                string_tiempo = num2str(cpusec);
+                %disp(string_tiempo);
                 %disp(string_matrix);
-                nueva_linea = texto_archivo + "intento: " + string_intento + " " + string_matrix;
+                nueva_linea = texto_archivo + "intento: " + string_intento + " " + "tiempo: " + string_tiempo + " " + string_matrix;
                 archivo = fopen(nombre_archivo,"w");
                 fprintf(archivo,'%s',nueva_linea);
                 fclose(archivo);
                 intentos = intentos + 1;
+                
                 x = x + 1;
             else
                 disp("No es estable");

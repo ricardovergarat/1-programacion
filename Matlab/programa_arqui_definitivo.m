@@ -1,7 +1,7 @@
 clc           %---------> esto limpia los mostrado por consola anteriormente
 orden = 2;
 intentos = 604; %---------> poner el ultimo intento del archivo, si es el primero poner 1
-cantidad = 99;  %---------> cuantas matrices quieres agregar al archivo, este programa esta hecho de tal forma que impleca que usted tiene 100 - cantidad  de matricez en el archivo 
+cantidad = 40;  %---------> cuantas matrices quieres agregar al archivo, este programa esta hecho de tal forma que impleca que usted tiene 100 - cantidad  de matricez en el archivo 
 Theta1m = 0.25;
 Theta1M = 0.4;
 Theta2m = 1;
@@ -95,12 +95,14 @@ while x < cantidad
                 fclose(archivo);
                 disp("texto completo: " + texto_archivo);
                 string_matrix = mat2str(W);
+                string_intento = num2str(intentos);
                 %disp(string_matrix);
                 nueva_linea = texto_archivo + "intento: " + string_intento + " " + string_matrix;
                 archivo = fopen(nombre_archivo,"w");
                 fprintf(archivo,'%s',nueva_linea);
                 fclose(archivo);
                 intentos = intentos + 1;
+                x = x + 1;
             else
                 disp("No es estable");
                 intentos = intentos + 1;
@@ -111,6 +113,5 @@ while x < cantidad
         end
         
     end
-    x = x + 1;
 end
 disp("100 %");

@@ -1,6 +1,6 @@
 clc           %---------> esto limpia los mostrado por consola anteriormente
 warning('off','YALMIP:strict'); 
-orden = 3;
+orden = 4;
 intentos = 1; %---------> poner el ultimo intento del archivo, si es el primero poner 1
 cantidad = 100;  %---------> cuantas matrices quieres agregar al archivo, este programa esta hecho de tal forma que impleca que usted tiene 100 - cantidad  de matricez en el archivo 
 Theta1m = 0.25;
@@ -15,14 +15,15 @@ while x < cantidad
     matrix_A1 = rand(orden);
     matrix_A2 = rand(orden);
     
+    numero_aleatorio = rand; %------> numero aleatorio entre 0 y 1
+    numero_aleatorio_redondeado = round(numero_aleatorio);
     
     su_matrix_simetrica = eye(orden); % por si no recuerdan la simetrica es cuando SOLO la diagional es 1
-    A0= matrix_A0 - su_matrix_simetrica;
-    A1= matrix_A1 - su_matrix_simetrica;
-    A2= matrix_A2 - su_matrix_simetrica;
+    A0= matrix_A0 - su_matrix_simetrica ;
+    A1= matrix_A1 - su_matrix_simetrica ;
+    A2= matrix_A2 - su_matrix_simetrica ;
     
     candidato = false;
-    
     %-----------------------------
     % candidatos
     while candidato ~= true
@@ -36,10 +37,15 @@ while x < cantidad
        ReA_sys(i,j)=max(real(eig(Axx)));
            end
        end
+       disp("eso raro: " + ReA_sys);
+       
+      
+       disp("end");
        
        if ReA_sys > 0
            %%%disp("No es candidato por ende usaremos proceso isaic ");
            mega_maximo = max(max(Re_sys));
+           disp("mega maximo: " + mega_maximo);
            A0 = A0 - su_matrix_simetrica * mega_maximo;
            A1 = A1 - su_matrix_simetrica * mega_maximo;
            A2 = A2 - su_matrix_simetrica * mega_maximo;

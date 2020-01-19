@@ -1,6 +1,6 @@
 clc           %---------> esto limpia los mostrado por consola anteriormente
 warning('off','YALMIP:strict'); 
-orden = 2;
+orden = 10;
 intentos = 1; %---------> poner el ultimo intento del archivo, si es el primero poner 1
 cantidad = 100;  %---------> cuantas matrices quieres agregar al archivo, este programa esta hecho de tal forma que impleca que usted tiene 100 - cantidad  de matricez en el archivo 
 Theta1m = 0.25;
@@ -8,7 +8,7 @@ Theta1M = 0.4;
 Theta2m = 1;
 Theta2M = 3;
 string_orden = num2str(orden);
-nombre_archivo = string_orden + ".txt";
+nombre_archivo = string_orden + "s.txt";
 x = 0;
 while x < cantidad
     matrix_A0 = rand(orden);
@@ -17,10 +17,13 @@ while x < cantidad
     %-----------------------------
     % candidatos
     
+    numero_aleatorio = rand; %------> numero aleatorio entre 0 y 1
+    numero_aleatorio_redondeado = round(numero_aleatorio);
+    
     su_matrix_simetrica = eye(orden) ; % por si no recuerdan la simetrica es cuando SOLO la diagional es 1
-    A0= matrix_A0 - su_matrix_simetrica;
-    A1= matrix_A1 - su_matrix_simetrica;
-    A2= matrix_A2 - su_matrix_simetrica;
+    A0= matrix_A0 - su_matrix_simetrica * ( orden - numero_aleatorio_redondeado );
+    A1= matrix_A1 - su_matrix_simetrica * ( orden - numero_aleatorio_redondeado );
+    A2= matrix_A2 - su_matrix_simetrica * ( orden - numero_aleatorio_redondeado );
     
     for i=1:20
         for j=1:20
@@ -33,7 +36,7 @@ while x < cantidad
     end
     
     if ReA_sys > 0
-        %%%disp("No es candidato");
+        %%disp("No es candidato");
         intentos  = intentos + 1;
     else
         % idea de las lineas xx hasta xx fueron pedidas de los siguietes alumnos

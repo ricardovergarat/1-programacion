@@ -1,6 +1,6 @@
 clc           %---------> esto limpia los mostrado por consola anteriormente
 warning('off','YALMIP:strict'); 
-orden = 10;
+orden = 8;
 intentos = 1; %---------> poner el ultimo intento del archivo, si es el primero poner 1
 cantidad = 100;  %---------> cuantas matrices quieres agregar al archivo, este programa esta hecho de tal forma que impleca que usted tiene 100 - cantidad  de matricez en el archivo 
 Theta1m = 0.25;
@@ -21,9 +21,9 @@ while x < cantidad
     numero_aleatorio_redondeado = round(numero_aleatorio);
     
     su_matrix_simetrica = eye(orden) ; % por si no recuerdan la simetrica es cuando SOLO la diagional es 1
-    A0= matrix_A0 - su_matrix_simetrica * ( orden - numero_aleatorio_redondeado );
-    A1= matrix_A1 - su_matrix_simetrica * ( orden - numero_aleatorio_redondeado );
-    A2= matrix_A2 - su_matrix_simetrica * ( orden - numero_aleatorio_redondeado );
+    A0= matrix_A0 - su_matrix_simetrica * 3;
+    A1= matrix_A1 - su_matrix_simetrica * 3;
+    A2= matrix_A2 - su_matrix_simetrica * 3;
     
     for i=1:20
         for j=1:20
@@ -36,7 +36,7 @@ while x < cantidad
     end
     
     if ReA_sys > 0
-        %%disp("No es candidato");
+        disp("No es candidato");
         intentos  = intentos + 1;
     else
         % idea de las lineas xx hasta xx fueron pedidas de los siguietes alumnos
@@ -86,7 +86,7 @@ while x < cantidad
         
             %
             if p > 0
-                %%%disp("Es estable");
+                disp("Es estable");
                 %%%disp("Esta es la matrix: " + W);
                 %%%disp("el sistema se demoro: " + cpusec);
                 %%%disp("Estamos en el intento: " + intentos);
@@ -117,7 +117,7 @@ while x < cantidad
                 end
                 x = x + 1;
             else
-                %%%disp("No es estable");
+                disp("No es estable");
                 intentos = intentos + 1;
             end
           

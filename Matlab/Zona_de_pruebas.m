@@ -1,8 +1,6 @@
 clc
 x = 0;
-while x < 100
-   if mod(x,5) == 0
-       disp(x + " % compleyo");
-   end
+while (x < 50 | x == 11)
+   disp(x);
    x = x + 1;
 end

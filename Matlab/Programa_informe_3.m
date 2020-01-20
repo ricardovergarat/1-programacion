@@ -1,5 +1,6 @@
 clc           %---------> esto limpia los mostrado por consola anteriormente
-warning('off','YALMIP:strict'); 
+warning('off','YALMIP:strict');
+load("Mi_base_de_datos")
 orden = 10;
 intentos = 1; %---------> poner el ultimo intento del archivo, si es el primero poner 1
 cantidad = 100;  %---------> cuantas matrices quieres agregar al archivo, este programa esta hecho de tal forma que impleca que usted tiene 100 - cantidad  de matricez en el archivo 
@@ -125,6 +126,14 @@ while x < cantidad
            if mod(x,5) == 0
                disp(x + " % completo");
            end
+           base_de_datos{orden,x + 1}.A0 = A0;
+           base_de_datos{orden,x + 1}.A1 = A1;
+           base_de_datos{orden,x + 1}.A2 = A2;
+           base_de_datos{orden,x + 1}.Theta1m = Theta1m;
+           base_de_datos{orden,x + 1}.Theta1M = Theta1M;
+           base_de_datos{orden,x + 1}.Theta2m = Theta2m;
+           base_de_datos{orden,x + 1}.Theta2M = Theta2M;
+           base_de_datos{orden,x + 1}.tiempo = cpusec;
            x = x + 1;
        else
            %%%disp("No es estable");
@@ -132,4 +141,5 @@ while x < cantidad
        end
    end
 end
+save("Mi_base_de_datos","base_de_datos")
 disp("100 %");

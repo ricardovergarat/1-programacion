@@ -117,7 +117,7 @@ def abrir_archivo(nombre):
     return lineas
 
 def crear_archivo(nombre,lista):
-	archivo = open(nombre,"w")
+    archivo = open(nombre,"w")
 	x = 0
 	while x != len(lista):
 		archivo.write(lista[x])

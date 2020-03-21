@@ -1,0 +1,73 @@
+como compilar ----> gcc nombre.c -o nombre.exe
+biblioteca basica ------> stdio.h
+print -------------------------> printf  (donde van las variables de poner %(tipo de dato))    tipos de datos == %i - %c - %f
+ejepmplo:
+x = 0, y = 23
+printf("x es: %i e y es: %i",x,y);
+
+operaciones:
+	https://es.wikipedia.org/wiki/Anexo:Operadores_de_C_y_C%2B%2B
+	distinto ----> !=
+	negacion ----> !
+	OR ----------> ||
+	AND ---------> &&
+tipos de datos:
+	char x = "a";	%c	1 byte		si usamos un string es %s
+	int x = 23;	%i	2 bytes	-32768 a 32768
+	short x = 43	%i	2 bytes -128 a 128 	es un entero corto
+	unsigned int x = 25	%i 	2 bytes 0 a 65535 son entero sin signo (son como solo los positivos)
+	long x = 5932	%li	4 bytes -2147483648 a 2147483648
+	float x = 72.534	%f	4 bytes (son numeros decimales)	%.2f(imprime solo dos decimales despues de la coma(lo redondea))
+	double x = 12312312.312312312 	%lf	8 bytes (son decimales mal largos simplente)
+	
+convertir datos:
+	(tipo a convertir)variable a convertir
+	(float)x
+	(double)x
+	(char)x		(los nueros los convierte al caracter con ese numero ejemplo: el 80 lo convierte en una p porque la p es el numero 80 del codigo ascii)
+	
+
+bucles:
+	for( variable = un numero; variable <= un segundo numero; variable++ )
+	for( x = 1; x <= 10; x++ )
+	while (condicion)
+	while ( x != "ricardovergara" )
+	do{
+		primera iteracion y las siguientes si se desea
+	}
+	while( condicion )
+switch:
+	si se crean variables en un case se debe crear un bloque con {} (las variablres a crear deben ir dentro de este bloque)
+	la parte default no es nesesaria para la ejucion de esta sentencia (esta mas que nada para errores)
+	los char deben ser en comillas simples ('a','b') (de ser posible la declaracion del char tambien en comilla simple por que consiera que 'a' no es igual a "a")
+	switch(variable a evaluar){
+		case 1: proceso 1; break;
+		case 2:	proceso 2; break;
+		case 3:{
+			proceso 3
+			break;
+		}
+		case n:
+		default: proceso
+	}
+vectores o arreglos:
+	unidemensional:
+		int nombre[tamaño] = {datos}
+		int x[4] = {2,4,6,8}
+	multidemsional:
+		int nombre[filas][columnas] = { f1{c1,c2,cn},f2{c1,c2,cn},fn{c1,c2,cn} }
+		int x[2][3] = { {5,3,1}, {6,4,2} }
+Punteros:
+	Contienen la direcion de una varibale (la ubicacion)
+	&varible ==== ubicacion de la variable en la memoria
+	tipo *nombre variable
+	int *apuntador
+	tipo *nombre variable = &varible de la cual queremos guarda su ubicacion
+	si solo uso *nombre_apuntador -------> eso el valor de la variable a la que apunta
+Paso de parametros por referencia:
+	tipo_retorno nombre_funcion(*nombre_variable)   ----------------> cuando la invoco deber ser nombre_funcion(&variable)
+Operado sizeof:
+	Determina el tamaño en bytes
+struct:
+	mirar codigos oara mejor claridad
+	atributos de la struct dentro de funciones debe ser -> (en el main se puede poner .)

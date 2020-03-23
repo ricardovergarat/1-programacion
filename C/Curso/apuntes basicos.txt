@@ -69,5 +69,5 @@ Paso de parametros por referencia:
 Operado sizeof:
 	Determina el tamaño en bytes
 struct:
-	mirar codigos oara mejor claridad
+	mirar codigos para mejor claridad
 	atributos de la struct dentro de funciones debe ser -> (en el main se puede poner .)

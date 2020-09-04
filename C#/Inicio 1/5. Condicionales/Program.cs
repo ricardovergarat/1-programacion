@@ -22,6 +22,9 @@ namespace _5._Condicionales
             {
                 Console.WriteLine("{0} > {1}", y, x);
             }
+            string t = "19.56";
+            float tf = float.Parse(t);
+            Console.WriteLine("{0}", tf);
             Console.ReadKey();
         }
     }

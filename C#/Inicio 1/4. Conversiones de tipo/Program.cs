@@ -6,6 +6,7 @@ namespace _4._Conversiones_de_tipo
     {
         static void Main(string[] args)
         {
+            string a = ""
             int x = 5;
             Decimal y = 12.1m;
             bool p = false;

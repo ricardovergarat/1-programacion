@@ -1,0 +1,10 @@
+C:\Users\Intel\Documents\1-programacion\Zona\Monitor_signos_vitales\bin\Debug\Monitor_signos_vitales.exe.config
+C:\Users\Intel\Documents\1-programacion\Zona\Monitor_signos_vitales\bin\Debug\Monitor_signos_vitales.exe
+C:\Users\Intel\Documents\1-programacion\Zona\Monitor_signos_vitales\bin\Debug\Monitor_signos_vitales.pdb
+C:\Users\Intel\Documents\1-programacion\Zona\Monitor_signos_vitales\obj\Debug\Monitor_signos_vitales.csprojAssemblyReference.cache
+C:\Users\Intel\Documents\1-programacion\Zona\Monitor_signos_vitales\obj\Debug\Monitor_signos_vitales.Ventana.resources
+C:\Users\Intel\Documents\1-programacion\Zona\Monitor_signos_vitales\obj\Debug\Monitor_signos_vitales.Properties.Resources.resources
+C:\Users\Intel\Documents\1-programacion\Zona\Monitor_signos_vitales\obj\Debug\Monitor_signos_vitales.csproj.GenerateResource.cache
+C:\Users\Intel\Documents\1-programacion\Zona\Monitor_signos_vitales\obj\Debug\Monitor_signos_vitales.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Documents\1-programacion\Zona\Monitor_signos_vitales\obj\Debug\Monitor_signos_vitales.exe
+C:\Users\Intel\Documents\1-programacion\Zona\Monitor_signos_vitales\obj\Debug\Monitor_signos_vitales.pdb

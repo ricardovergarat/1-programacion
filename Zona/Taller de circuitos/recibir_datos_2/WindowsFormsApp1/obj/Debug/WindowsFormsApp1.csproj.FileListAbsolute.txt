@@ -1,0 +1,5 @@
+C:\Users\Intel\Documents\1-programacion\Zona\recibir_datos_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Intel\Documents\1-programacion\Zona\recibir_datos_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Intel\Documents\1-programacion\Zona\recibir_datos_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Intel\Documents\1-programacion\Zona\recibir_datos_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Intel\Documents\1-programacion\Zona\recibir_datos_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache

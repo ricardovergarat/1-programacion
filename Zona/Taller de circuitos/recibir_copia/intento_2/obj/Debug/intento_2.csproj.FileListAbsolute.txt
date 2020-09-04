@@ -1,0 +1,10 @@
+C:\Users\Intel\Documents\1-programacion\Zona\recibir_copia\intento_2\obj\Debug\intento_2.csprojAssemblyReference.cache
+C:\Users\Intel\Documents\1-programacion\Zona\recibir_copia\intento_2\obj\Debug\intento_2.Properties.Resources.resources
+C:\Users\Intel\Documents\1-programacion\Zona\recibir_copia\intento_2\obj\Debug\intento_2.csproj.GenerateResource.cache
+C:\Users\Intel\Documents\1-programacion\Zona\recibir_copia\intento_2\obj\Debug\intento_2.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Documents\1-programacion\Zona\recibir_copia\intento_2\bin\Debug\intento_2.exe.config
+C:\Users\Intel\Documents\1-programacion\Zona\recibir_copia\intento_2\bin\Debug\intento_2.exe
+C:\Users\Intel\Documents\1-programacion\Zona\recibir_copia\intento_2\bin\Debug\intento_2.pdb
+C:\Users\Intel\Documents\1-programacion\Zona\recibir_copia\intento_2\obj\Debug\intento_2.exe
+C:\Users\Intel\Documents\1-programacion\Zona\recibir_copia\intento_2\obj\Debug\intento_2.pdb
+C:\Users\Intel\Documents\1-programacion\Zona\recibir_copia\intento_2\obj\Debug\intento_2.Ventana.resources

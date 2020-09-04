@@ -7,3 +7,4 @@ C:\Users\Intel\Documents\1-programacion\C#\Basico\24-Diseñando una ventana de L
 C:\Users\Intel\Documents\1-programacion\C#\Basico\24-Diseñando una ventana de Login\obj\Debug\24-Diseñando una ventana de Login.csproj.GenerateResource.cache
 C:\Users\Intel\Documents\1-programacion\C#\Basico\24-Diseñando una ventana de Login\obj\Debug\24-Diseñando una ventana de Login.exe
 C:\Users\Intel\Documents\1-programacion\C#\Basico\24-Diseñando una ventana de Login\obj\Debug\24-Diseñando una ventana de Login.pdb
+C:\Users\Intel\Documents\1-programacion\C#\Basico\24-Diseñando una ventana de Login\obj\Debug\24-Diseñando una ventana de Login.csproj.CoreCompileInputs.cache

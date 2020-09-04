@@ -1,0 +1,13 @@
+C:\Users\Intel\Documents\1-programacion\Zona\consola c#\zona de pruebas\bin\Debug\netcoreapp3.1\zona de pruebas.exe
+C:\Users\Intel\Documents\1-programacion\Zona\consola c#\zona de pruebas\bin\Debug\netcoreapp3.1\zona de pruebas.deps.json
+C:\Users\Intel\Documents\1-programacion\Zona\consola c#\zona de pruebas\bin\Debug\netcoreapp3.1\zona de pruebas.runtimeconfig.json
+C:\Users\Intel\Documents\1-programacion\Zona\consola c#\zona de pruebas\bin\Debug\netcoreapp3.1\zona de pruebas.runtimeconfig.dev.json
+C:\Users\Intel\Documents\1-programacion\Zona\consola c#\zona de pruebas\bin\Debug\netcoreapp3.1\zona de pruebas.dll
+C:\Users\Intel\Documents\1-programacion\Zona\consola c#\zona de pruebas\bin\Debug\netcoreapp3.1\zona de pruebas.pdb
+C:\Users\Intel\Documents\1-programacion\Zona\consola c#\zona de pruebas\obj\Debug\netcoreapp3.1\zona de pruebas.csprojAssemblyReference.cache
+C:\Users\Intel\Documents\1-programacion\Zona\consola c#\zona de pruebas\obj\Debug\netcoreapp3.1\zona de pruebas.AssemblyInfoInputs.cache
+C:\Users\Intel\Documents\1-programacion\Zona\consola c#\zona de pruebas\obj\Debug\netcoreapp3.1\zona de pruebas.AssemblyInfo.cs
+C:\Users\Intel\Documents\1-programacion\Zona\consola c#\zona de pruebas\obj\Debug\netcoreapp3.1\zona de pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Documents\1-programacion\Zona\consola c#\zona de pruebas\obj\Debug\netcoreapp3.1\zona de pruebas.dll
+C:\Users\Intel\Documents\1-programacion\Zona\consola c#\zona de pruebas\obj\Debug\netcoreapp3.1\zona de pruebas.pdb
+C:\Users\Intel\Documents\1-programacion\Zona\consola c#\zona de pruebas\obj\Debug\netcoreapp3.1\zona de pruebas.genruntimeconfig.cache

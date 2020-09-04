@@ -9,3 +9,15 @@ C:\Users\ricardo\Documents\1-programacion\C#\5. Condicionales\obj\Debug\netcorea
 C:\Users\ricardo\Documents\1-programacion\C#\5. Condicionales\obj\Debug\netcoreapp2.1\5. Condicionales.AssemblyInfo.cs
 C:\Users\ricardo\Documents\1-programacion\C#\5. Condicionales\obj\Debug\netcoreapp2.1\5. Condicionales.dll
 C:\Users\ricardo\Documents\1-programacion\C#\5. Condicionales\obj\Debug\netcoreapp2.1\5. Condicionales.pdb
+C:\Users\Intel\Documents\1-programacion\C#\Inicio 1\5. Condicionales\bin\Debug\netcoreapp2.1\5. Condicionales.deps.json
+C:\Users\Intel\Documents\1-programacion\C#\Inicio 1\5. Condicionales\bin\Debug\netcoreapp2.1\5. Condicionales.runtimeconfig.json
+C:\Users\Intel\Documents\1-programacion\C#\Inicio 1\5. Condicionales\bin\Debug\netcoreapp2.1\5. Condicionales.runtimeconfig.dev.json
+C:\Users\Intel\Documents\1-programacion\C#\Inicio 1\5. Condicionales\bin\Debug\netcoreapp2.1\5. Condicionales.dll
+C:\Users\Intel\Documents\1-programacion\C#\Inicio 1\5. Condicionales\bin\Debug\netcoreapp2.1\5. Condicionales.pdb
+C:\Users\Intel\Documents\1-programacion\C#\Inicio 1\5. Condicionales\obj\Debug\netcoreapp2.1\5. Condicionales.csprojAssemblyReference.cache
+C:\Users\Intel\Documents\1-programacion\C#\Inicio 1\5. Condicionales\obj\Debug\netcoreapp2.1\5. Condicionales.AssemblyInfoInputs.cache
+C:\Users\Intel\Documents\1-programacion\C#\Inicio 1\5. Condicionales\obj\Debug\netcoreapp2.1\5. Condicionales.AssemblyInfo.cs
+C:\Users\Intel\Documents\1-programacion\C#\Inicio 1\5. Condicionales\obj\Debug\netcoreapp2.1\5. Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Documents\1-programacion\C#\Inicio 1\5. Condicionales\obj\Debug\netcoreapp2.1\5. Condicionales.dll
+C:\Users\Intel\Documents\1-programacion\C#\Inicio 1\5. Condicionales\obj\Debug\netcoreapp2.1\5. Condicionales.pdb
+C:\Users\Intel\Documents\1-programacion\C#\Inicio 1\5. Condicionales\obj\Debug\netcoreapp2.1\5. Condicionales.genruntimeconfig.cache

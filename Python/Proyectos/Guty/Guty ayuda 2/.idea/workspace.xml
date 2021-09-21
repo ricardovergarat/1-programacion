@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b713db7-61e0-4689-b17a-e4e9512c5b6e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../../C#/Basico/1-Aplicación de consola (Hola mundo)/.vs/1-Aplicación de consola (Hola mundo)/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../C#/Basico/1-Aplicación de consola (Hola mundo)/.vs/1-Aplicación de consola (Hola mundo)/v16/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../C#/Basico/22- Introducción a Windows Form/.vs/22- Introducción a Windows Form/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../C#/Basico/22- Introducción a Windows Form/.vs/22- Introducción a Windows Form/v16/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../C#/Basico/24-Diseñando una ventana de Login/.vs/24-Diseñando una ventana de Login/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../C#/Basico/24-Diseñando una ventana de Login/.vs/24-Diseñando una ventana de Login/v16/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../C#/Basico/24-Diseñando una ventana de Login/obj/Debug/24-Diseñando una ventana de Login.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../C#/Basico/24-Diseñando una ventana de Login/obj/Debug/24-Diseñando una ventana de Login.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../C#/Basico/24-Diseñando una ventana de Login/obj/Debug/DesignTimeResolveAssemblyReferences.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../C#/Basico/24-Diseñando una ventana de Login/obj/Debug/DesignTimeResolveAssemblyReferences.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Zona/POO/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Zona/POO/.idea/POO.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Zona/POO/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Zona/POO/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Zona/POO/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Zona/POO/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../Zona/POO/POO 1.py" beforeDir="false" />
-    </list>
+    <list default="true" id="8b713db7-61e0-4689-b17a-e4e9512c5b6e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +22,7 @@
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>

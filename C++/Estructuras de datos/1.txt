@@ -1,1 +1,0 @@
-fflush(stind) ---------- > vaciar el buffer

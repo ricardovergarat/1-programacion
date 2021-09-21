@@ -1,57 +1,61 @@
 # include <iostream>
-# include <stdlib.h>
+# include <stdlib.h> // es para importar el new
 
 using namespace std;
 
-struct nodo{
+// modificar lineas 9,13,39
+
+struct nodo_cola{
 	int dato;
-	nodo *sgt; // ubicacion del siguietne elemento
+	nodo *anterior;
 };
 
-void mostrar_cola(nodo *frente, nodo *fin){
-	if ( ( frente && fin ) == NULL ){
+void agregar_elemento_cola(nodo_cola &*cola,int elemento){
+	if (cola == NULL){
+		nodo_cola *nuevo_espacio = new nodo_cola();
+		nuevo_espacio -> dato = elemento;
+		nuevo_espacio -> anterior = NULL;
+		cola = nuevo_espacio;
+	}else{
+		nodo_cola ultimo_nodo = cola;
+		while (ultimo_nodo -> anterior != NULL){
+			ultimo_nodo = ultimo_nodo -> anterior;
+		}
+		nodo_cola *nuevo_espacio = new nodo_cola();
+		nuevo_espacio -> dato = elemento;
+		nuevo_espacio -> anterior = NULL;
+		ultimo_nodo -> anterior = nuevo_espacio;
+	}
+}
+
+void quitar_elemento_cola(nodo_cola &*cola){
+	if (cola == NULL){
+		cola = NULL;
+	}else{
+		cola = cola -> anterior;
+	}
+}
+
+int obtener_cabeza(nodo_cola *cola){
+	if (cola == NULL){
+		return NULL;
+	}
+	return cola -> dato;
+}
+
+void mostrar_cola(nodo_cola *cola){
+	if (cola == NULL){
 		cout << "[]" << endl;
 	}else{
-		nodo *cola_actual = frente;
-		cout << "primer elemento de la cola: " << cola_actual -> dato << "		y su ubicacion es: " << cola_actual << endl;
+		nodo_cola *cola_actual = cola;
 		cout << "[";
-		while ( cola_actual -> sgt != NULL ){
-			cout << cola_actual -> dato << ",";
-			cola_actual = cola_actual -> sgt;
-			cout << "ubicacion del siguietne nodo: " << cola_actual << endl;
+		while (cola_actual != NULL){
+			cout << cola_actual -> dato;
+			if (cola_actual -> anterior != NULL){
+				cout << ",";
+			}
+			quitar_elemento_cola(cola_actual);
 		}
+		cout << "]" << endl;
 	}
-}
-
-void agregar_elemento(nodo *&frente, nodo *&fin,int n){
-	nodo *nuevo_espacio = new nodo();
-	nuevo_espacio -> dato = n;
-	nuevo_espacio -> sgt = NULL;
-	if ( frente == NULL ){
-		// impica que la cola estaba vacia antes de crear este nuevo nodo
-		frente = nuevo_espacio;
-	}else{
-		fin -> sgt = nuevo_espacio;
-	}
-	fin = nuevo_espacio;
-	cout << "dato es: " << nuevo_espacio -> dato << "		y su siguietne apuntador es: " << nuevo_espacio -> sgt << endl;
-}
-
-
-int main(){
-	nodo *frente = NULL;
-	nodo *fin = NULL;
-	cout << "ubicacion del puntero: " << &frente << endl;
-	mostrar_cola(frente,fin);
-	agregar_elemento(frente,fin,10);
-	cout << "nueva cola "<< fin << endl;
-	agregar_elemento(frente,fin,15);
-	cout << "nueva cola "<< fin << endl;
-	agregar_elemento(frente,fin,20);
-	cout << "nueva cola "<< fin << endl;
-	agregar_elemento(frente,fin,25);
-	cout << "nueva cola "<< fin << endl;
-	mostrar_cola(frente,fin);
-
-	return 0;
 }

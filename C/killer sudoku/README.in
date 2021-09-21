@@ -1,0 +1,44 @@
+MANUAL USUARIO.
+Aclaraciones antes de iniciar:
+-El archivo a leer es "adoku.in".
+-La modalidad automatica tarda demasiado en finalizar.
+-Si se le pide un caracter puede ser ingresado tanto en mayusculas como en minusculas.
+
+*INICIA EL PROGRAMA*
+
+Se le mostrara por pantalla el mensaje "Ingrese modalidad de juego J/A".
+Para la modalidad "Jugador" debe ingresar 'J'.
+Para la modalidad "Automatica" debe ingresar 'A'.
+
+*Modalidad Jugador*
+
+Al ingresar a esta modalidad se le mostrara por pantalla la matriz que indica las jaulas, la cantidad que debe sumar cada jaula y posteriormente se le mostrara la matriz del sudoku, el tablero con el cual se jugara.
+
+Se le pedira que ingrese una opcion:
+Borrar (B).
+Ingresar (I).
+
+Para ambas se le pedira que ingrese la fila y luego la columna que desea manipular, estas deben estar entre el [0-8].
+
+Si la opcion fue "Ingresar" se le pedira ademas el numero que desea ingresar este debe estar entre el [1-9], 
+
+Cada entrada sera validada de a una, es decir, se ingresa la fila y posteriormente la columna.
+
+Luego se mostrara por pantalla nuevamente la matriz de las jaulas, la cantidad que deben sumar y finalmente la matriz del sudoku actualizada.
+
+Se verificara si se ha obtenido la victoria.
+Si se cumplen las condiciones se le notificara con un mensaje de 'Victoria!', junto a él, la pregunta de que si desea volver a jugar, mostrandose de la siguiente forma:
+
+Victoria!
+Desea volver a jugar (S/N)
+
+Si desea volver a jugar, puede ingresar 'S', si lo realiza, se le volverá a pedir la modalidad de juego.
+Si no desea volver a jugar, ingrese 'N', en este caso el programa finaliza.
+
+*Modalidad Automatica*
+
+Al ingresar a esta modalidad se iniciara automaticamente a generar todas las combinaciones posibles del tablero de 81 casillas, mostrando un iterador y la matriz que lleva cada 10000000 combinaciones y si se cumple la condicion de las jaulas se mostrara la matriz con un mensaje de Posible Solucion.
+
+Cuando termine se le mostrara el mismo mensaje y menu que cuando se obtiene la victoria en el modo manual.	
+
+*Finaliza programa*

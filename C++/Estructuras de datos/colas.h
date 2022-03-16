@@ -17,7 +17,7 @@ void agregar_elemento_cola(nodo_cola &*cola,int elemento){
 		nuevo_espacio -> anterior = NULL;
 		cola = nuevo_espacio;
 	}else{
-		nodo_cola ultimo_nodo = cola;
+		nodo_cola *ultimo_nodo = cola;
 		while (ultimo_nodo -> anterior != NULL){
 			ultimo_nodo = ultimo_nodo -> anterior;
 		}
